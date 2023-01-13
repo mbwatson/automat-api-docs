@@ -1,0 +1,11 @@
+{
+  "label": "Data Sources",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn about the available data sources and the corresponding APIs to interact with them."
+  },
+  "customProps": {
+    "description": "This description can be used in the swizzled DocCard"
+  }
+}
